@@ -13,6 +13,7 @@ public class Base1 {
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\Administrator\\Downloads\\chromedriver_win32 (2)\\chromedriver.exe");
 		
 		 driver=new ChromeDriver();
+		System.out.println("Sneha........");
 		
 		
 		driver.get("https://kite.zerodha.com/");
